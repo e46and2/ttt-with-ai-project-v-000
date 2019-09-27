@@ -60,9 +60,9 @@ end
     
 #full?
 
-def full?
-  @board.all?{|played| played != " "}
-end
+#def full?
+ # @board.all?{|played| played != " "}
+#end
 
 #draw?
 
